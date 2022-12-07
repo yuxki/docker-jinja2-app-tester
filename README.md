@@ -12,9 +12,9 @@ The image for testing Jinja2 application.
   - PyYAML==6.0
 
 ## Build Image
+### 3.11-slim-bullseye
 ```
-cd docker-jinja2-app-tester
-docker build --file 3.11-slim-bullseye/Dockerfile .
+docker build --file 3.11-slim-bullseye/Dockerfile -t jinja2-app-tester:3.11-slim-bullseye .
 ```
 
 ## Examples
