@@ -10,6 +10,7 @@ The image for testing Jinja2 application.
 - Installed Packages
   - Jinja2==3.1.2
   - PyYAML==6.0
+  - ansible==7.1.0
 
 ## Build Image
 ### 3.11-slim-bullseye
