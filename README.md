@@ -6,7 +6,7 @@ The image for testing Jinja2 application.
 
 ## Image Environment
 - Base Imag
-  - Tag
+  - python:Tags
 - Installed Packages
   - Jinja2==3.1.2
   - PyYAML==6.0
